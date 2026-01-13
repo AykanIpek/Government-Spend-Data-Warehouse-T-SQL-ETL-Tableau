@@ -55,4 +55,4 @@ Four advanced analytical queries implemented as stored procedures:
 - Business-ready dashboard supporting decision-making
 
 ## Academic Context
-This project was developed as part of the **CSI-7-DAT: Data Management** module coursework.
+This project was developed as part of the **CSI-7-DAT: Data Management** module at London South Bank University (LSBU).
