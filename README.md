@@ -4,7 +4,17 @@ Designed and implemented a T-SQL based dimensional data warehouse for UK governm
 # Government Spend Data Warehouse & Analytics (T-SQL)
 
 ## Project Overview
-This project designs and implements a prototype data warehouse for analyzing UK government expenditure data using Kimball’s Dimensional Modeling methodology. The solution covers end-to-end ETL, analytical querying with stored procedures, and business intelligence reporting.
+This project designs and implements a prototype data warehouse for analyzing UK government expenditure data using Kimball’s Dimensional Modeling methodology. The solution covers end-to-end ETL, analytical querying with stored procedures, and business intelligence reporting. 
+
+
+```text
+📁 inflammation-severity-assessment
+│── Data/                                                               # Datasets
+│── Kimball-based_Warehouse.sql/                                        # The entire code
+│── SQL Driven Expenditure Analytics and Supplier Metrics.twbx/         # Tablue Dashboard
+│── README.md/                                                          # Project documentation
+```
+
 
 ## Data Source
 - UK Government Spend over £25,000 dataset
