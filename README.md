@@ -43,7 +43,7 @@ Four advanced analytical queries implemented as stored procedures:
 4. Custom time-based supplier analysis query, exported as CSV
 
 ## Business Intelligence Dashboard
-- Dashboard built in **Power BI**
+- Dashboard built in **Tableau**
 - Single consolidated view combining all analytical queries
 - Visual storytelling focused on:
   - Supplier performance
