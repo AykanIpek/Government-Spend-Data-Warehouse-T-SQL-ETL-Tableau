@@ -8,7 +8,7 @@ This project designs and implements a prototype data warehouse for analyzing UK 
 
 
 ```text
-📁 inflammation-severity-assessment
+📁 Government-Spend-Data-Warehouse-T-SQL-ETL-Tableau
 │── Data/                                                               # Datasets
 │── Kimball-based_Warehouse.sql/                                        # The entire code
 │── SQL Driven Expenditure Analytics and Supplier Metrics.twbx/         # Tablue Dashboard
